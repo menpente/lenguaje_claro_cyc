@@ -9,5 +9,6 @@ Utilizaremos este tablero de Miro para asegurarnos de que no se nos escapa ningu
 
 ## Recursos
 * Manual de estilo de lenguaje claro del Gobierno de Aragón [https://www.aragon.es/documents/20127/6649155/Manual+de+estilo+de+lenguaje+claro.PDF]
+* Palabras comunes en español [https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/Spanish_frequency_list-1-5000]
 * Hugging Face [https://huggingface.co/]
 * GPT4ll [https://gpt4all.io/index.html]
