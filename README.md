@@ -12,6 +12,7 @@ Utilizaremos este tablero de Miro para asegurarnos de que no se nos escapa ningu
 * Palabras comunes en español [https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/Spanish_frequency_list-1-5000]
 * Hugging Face [https://huggingface.co/]
 * GPT4ll [https://gpt4all.io/index.html]
+* Accessibility Checker [https://www.accessibilitychecker.org/]
 
 ## Código de muestra
 * lecturabilidad.ipynb: descarga textos de un sitio web y calcula estadísticas de lecturabilidad.
