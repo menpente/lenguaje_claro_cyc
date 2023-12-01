@@ -13,7 +13,9 @@ Utilizaremos este tablero de Miro para asegurarnos de que no se nos escapa ningu
 * Google Colab [https://colab.research.google.com/]
 * Hugging Face [https://huggingface.co/models?search=spanish%20llama]
 * GPT4ll [https://gpt4all.io/index.html]
+* PrivateGPT [https://github.com/imartinez/privateGPT]
 * Accessibility Checker [https://www.accessibilitychecker.org/]
 
 ## Código de muestra
 * lecturabilidad.ipynb: descarga textos de un sitio web y calcula estadísticas de lecturabilidad.
+* clariprompting.py: solicita a un modelo de lenguaje que evalué un texto en cuanto a claridad.
