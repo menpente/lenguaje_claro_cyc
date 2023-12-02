@@ -20,3 +20,5 @@ Utilizaremos este tablero de Miro para asegurarnos de que no se nos escapa ningu
 ## Código de muestra
 * lecturabilidad.ipynb: descarga textos de un sitio web y calcula estadísticas de lecturabilidad.
 * clariprompting.py: solicita a un modelo de lenguaje que evalué un texto en cuanto a claridad.
+
+Presentación "Clarificador institucional! (Prompt Engineering): https://docs.google.com/presentation/d/1vPEJz1Izk5A6e2TYl7MJc_TLhC99sE2ekNzBMet2VVg/edit#slide=id.gc6f73a04f_0_0
