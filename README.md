@@ -15,7 +15,7 @@ Utilizaremos este tablero de Miro para asegurarnos de que no se nos escapa ningu
 * GPT4ll [https://gpt4all.io/index.html]
 * PrivateGPT [https://github.com/imartinez/privateGPT]
 * Accessibility Checker [https://www.accessibilitychecker.org/]
-* Listado de páginas de la Adminstración (o por lo menos, unas cuantas) https://administracion.gob.es/pagFront/espanaAdmon/directorioOrganigramas/gobiernoEstado/gobiernoEstado.htm
+* Listado de páginas de la Administración (o por lo menos, unas cuantas) https://administracion.gob.es/pagFront/espanaAdmon/directorioOrganigramas/gobiernoEstado/gobiernoEstado.htm
 
 ## Código de muestra
 * lecturabilidad.ipynb: descarga textos de un sitio web y calcula estadísticas de lecturabilidad.
